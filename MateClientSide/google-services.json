@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473194708391",
+    "project_id": "mateapiconnection",
+    "storage_bucket": "mateapiconnection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473194708391:android:920f71c43c9613b5a3ca82",
+        "android_client_info": {
+          "package_name": "mate.android.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP3hk-P-dYyVuUDDo9gPon6nM4i9wecAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
